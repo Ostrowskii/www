@@ -85,8 +85,31 @@
       "opcionais": [
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 3
+    },
+    {
+      "nome": "Jerry",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 4
+    },
+    {
+      "nome": "Tom",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Salame",
+        "Cebola roxa",
+        "Bacon"
+      ],
+      "status": "Em produção",
+      "id": 5
     }
   ]
 }
