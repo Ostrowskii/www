@@ -79,59 +79,14 @@
   ],
   "burgers": [
     {
-      "nome": "Vanessa PO",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Vanessa PO",
-      "carne": "Alcatra",
+      "nome": "kebec",
+      "carne": "Veggie burger",
       "pao": "Integral",
       "opcionais": [
-        "Pepino",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Miguel Junior",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
+        "Bacon"
       ],
       "status": "Solicitado",
       "id": 3
-    },
-    {
-      "nome": "Miguel Junior",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "nome": "Miguel Junior",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 5
     }
   ]
 }
